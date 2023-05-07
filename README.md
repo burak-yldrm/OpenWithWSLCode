@@ -21,3 +21,10 @@ Kurulum adımları bunlardan ibarettir. Kurulum tamamlandıktan sonra bilgisayar
 
 ## Kullanım
 Herhangi bir klasörün içerisinde veya klösörün üzerinde sağ tıklayın. Açılan menüde "Open with WSLCode" seçeneğini seçin. Ta Da :stuck_out_tongue_winking_eye:
+
+![Mevcut klasör içerisinde sağ tıklama](https://github.com/burak-yldrm/OpenWithWSLCode/main/img/2.png)
+
+![Klasör üzerinde sağ tıklama](https://github.com/burak-yldrm/OpenWithWSLCode/main/img/2.png)
+
+## Kaldırma
+...
