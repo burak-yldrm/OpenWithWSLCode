@@ -27,4 +27,4 @@ Herhangi bir klasörün içerisinde veya klösörün üzerinde sağ tıklayın. 
 ![Klasör üzerinde sağ tıklama](https://github.com/burak-yldrm/OpenWithWSLCode/blob/main/img/2.png)
 
 ## Kaldırma
-...
+Kaldırma işlemi için "Uninstall.bat" dosyasını yönetici olarak çalıştırmanız yeterlidir.
