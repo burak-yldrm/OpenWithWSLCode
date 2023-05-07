@@ -38,7 +38,7 @@ reg add "HKEY_CLASSES_ROOT\Directory\shell\Open with WSL" /ve /t REG_EXPAND_SZ /
 :: icon için yeni bir value oluşturulur ve taşıdığımız ".ico" uzantılı dosya value olarak geçilir.
 reg add "HKEY_CLASSES_ROOT\Directory\shell\Open with WSL" /v Icon /t REG_EXPAND_SZ /d "C:\Users\%USERNAME%\AppData\Local\Programs\Open with WSLCode\Burak_Yldrm_Visual_Studio_Code_open_with_Windows_Subsystem_f_db877af4-cd93-48f4-8701-a68189e6c84a.ico" /f
 :: eklenen etiketin işlevini "wsl.exe code ." olarak ayarlar
-reg add "HKEY_CLASSES_ROOT\Directory\shell\Open with WSL\command" /ve /t REG_EXPAND_SZ /d "wsl.exe code ." /f
+:: reg add "HKEY_CLASSES_ROOT\Directory\shell\Open with WSL\command" /ve /t REG_EXPAND_SZ /d "cmd.exe /C for /F \"usebackq delims=\" %%A in (`wsl wslpath \"%V\"`) do (wsl.exe code \"%%A\")" /f
 
 
 :: linkedin.com/in/burakyldrm0/
