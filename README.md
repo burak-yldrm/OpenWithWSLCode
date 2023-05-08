@@ -15,8 +15,8 @@ Sisteminizde herhangi bir soruna yol açmayacaktır fakat yinede **sorumluluk ka
 ## Kurulum
 1. Repo'yu klonlayın veya zip olarak indirin.
 2. İndirdiğiniz dosyayı açın.
-3. "Setup.bat" dosyasını yönetici olarak çalıştırın.
-4. source içerisindeki "folderRClick.reg" dosyasını yönetici olarak çalıştırın. (Klasör üzerinde sağ tıklama)
+3. source içerisinde ki "Setup.bat" dosyasını yönetici olarak çalıştırın.
+4. source içerisinde ki "folderRClick.reg" dosyasını yönetici olarak çalıştırın. (Klasör üzerinde sağ tıklama)
 
 Kurulum adımları bunlardan ibarettir. Kurulum tamamlandıktan sonra bilgisayarınızı yeniden başlatmanız gerekmektedir.
 
@@ -28,4 +28,4 @@ Herhangi bir klasörün içerisinde veya klösörün üzerinde sağ tıklayın. 
 ![Klasör üzerinde sağ tıklama](https://github.com/burak-yldrm/OpenWithWSLCode/blob/main/img/2.png)
 
 ## Kaldırma
-Kaldırma işlemi için "Uninstall.bat" dosyasını yönetici olarak çalıştırmanız yeterlidir.
+Kaldırma işlemi için "source/Uninstall.bat" dosyasını yönetici olarak çalıştırmanız yeterlidir.
