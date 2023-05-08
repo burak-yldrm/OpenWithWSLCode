@@ -16,6 +16,7 @@ Sisteminizde herhangi bir soruna yol açmayacaktır fakat yinede **sorumluluk ka
 1. Repo'yu klonlayın veya zip olarak indirin.
 2. İndirdiğiniz dosyayı açın.
 3. "Setup.bat" dosyasını yönetici olarak çalıştırın.
+4. source içerisindeki "folderRClick.reg" dosyasını yönetici olarak çalıştırın. (Klasör üzerinde sağ tıklama)
 
 Kurulum adımları bunlardan ibarettir. Kurulum tamamlandıktan sonra bilgisayarınızı yeniden başlatmanız gerekmektedir.
 
